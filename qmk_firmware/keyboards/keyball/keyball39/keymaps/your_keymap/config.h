@@ -49,6 +49,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  // 10バイト
 // #define TAPPING_FORCE_HOLD  // 34バイト
 // 下記三つで444バイト
-#define TAPPING_TERM 175
+#define TAPPING_TERM 500
 // #define PERMISSIVE_HOLD
 // #define RETRO_TAPPING
